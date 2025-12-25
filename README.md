@@ -2,7 +2,7 @@
 
 A career intelligence tool that helps developers understand the tech job market using real survey data.
 
-![TechHorizon Demo](demo.png)
+![TechHorizon Demo](TechHorizon.png)
 
 ## What does it do?
 
