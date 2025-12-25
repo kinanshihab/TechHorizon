@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Data (Too large for GitHub)
+data/*.csv
+!data/mock_job_data.csv
