@@ -61,6 +61,3 @@ The large CSV files are not included in this repo. You can download them from th
 
 I wanted to create something that combines data analysis with practical career planning. Instead of just showing charts, TechHorizon lets you explore the data yourself and find insights relevant to your career path.
 
----
-
-Made by Kinan Shihab
