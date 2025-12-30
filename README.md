@@ -23,7 +23,16 @@ You can filter everything by job role (like "Data Scientist" or "Full Stack Deve
 
 **Growth Tracker** - Discover which technologies are trending upward.
 
-## How to run it
+## One-Click Start (Windows) 🚀
+Simply double-click the `run_project.bat` file in this folder.
+It will automatically:
+1. Start the Python Backend
+2. Start the React Frontend
+3. Open your browser to the correct page
+
+---
+
+## Manual Start (If you prefer)
 
 ### Backend (Python)
 ```bash
